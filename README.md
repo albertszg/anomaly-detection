@@ -18,18 +18,18 @@ a summary to anamaly detection
 - Dan Li:  MAD  
 
 # some deep method  used 
-- DeSpaWN(wavelet):https://github.com/MichauGabriel/DeSpaWN  
-- Robust deep autoencoder KDD2017 : https://github.com/zc8340311/RobustAutoencoder  
-- classification-based unsupervised NIPS2018: https://github.com/izikgo/AnomalyDetectionTransformations  
-- DeepSVDD semi-supervised ICML2018:https://github.com/lukasruff/Deep-SVDD-PyTorch  
-- MADGAN pure GAN: https://github.com/LiDan456/MAD-GANs   
-- TadGan GAN+AE:https://github.com/arunppsg/TadGAN  
-- FGANomaly unsupervised:https://github.com/sxxmason/FGANomaly  
+- **[DeSpaWN(wavelet)](https://github.com/MichauGabriel/DeSpaWN) 
+- Robust deep autoencoder KDD2017: [https://github.com/zc8340311/RobustAutoencoder]  
+- classification-based unsupervised NIPS2018: [https://github.com/izikgo/AnomalyDetectionTransformations]  
+- DeepSVDD semi-supervised ICML2018:[https://github.com/lukasruff/Deep-SVDD-PyTorch]  
+- MADGAN pure GAN: [https://github.com/LiDan456/MAD-GANs]   
+- TadGan GAN+AE:[https://github.com/arunppsg/TadGAN]  
+- FGANomaly unsupervised:[https://github.com/sxxmason/FGANomaly]  
 - TranAD transformer: https://github.com/imperial-qore/TranAD  
 - OE(Dan Hendrycks): https://github.com/hendrycks/outlier-exposure  
 - DAGMM: https://github.com/danieltan07/dagmm  
 - RSRAE:https://github.com/dmzou/RSRAE  
-- different AEs: https://github.com/LitoNeo/pytorch-AutoEncoders  https://github.com/huiminren/RobustVAE https://github.com/HaleAkrami/RVAE https://github.com/raghavchalapathy/rcae
+- different AEs: [https://github.com/LitoNeo/pytorch-AutoEncoders]  [https://github.com/huiminren/RobustVAE https://github.com/HaleAkrami/RVAE] [https://github.com/raghavchalapathy/rcae]
 - some GANs:https://github.com/christiancosgrove/pytorch-spectral-normalization-gan
 - some weakly-supervised or semi-supervised: 
 #dataset:  
