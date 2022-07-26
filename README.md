@@ -30,6 +30,8 @@ a summary to anamaly detection
 - DAGMM: https://github.com/danieltan07/dagmm  
 - RSRAE:https://github.com/dmzou/RSRAE  
 - different AEs: https://github.com/LitoNeo/pytorch-AutoEncoders  https://github.com/huiminren/RobustVAE https://github.com/HaleAkrami/RVAE https://github.com/raghavchalapathy/rcae
+- some GANs:https://github.com/christiancosgrove/pytorch-spectral-normalization-gan
+- some weakly-supervised or semi-supervised: 
 #dataset:  
 - https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets
 
