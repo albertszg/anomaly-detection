@@ -11,15 +11,15 @@ simple introduction to AE-based univariate time series: https://github.com/Julie
 #Well-known researchers:  
 Yue Zhao: ADBench,pyod  
 Lukas Ruff: DSVDD  
-Guangsong Pang:survey and tutorial on 21 KDD  
-Dan Hendrycks:safety noise OOD GELU  
+Guangsong Pang:  survey and tutorial on 21 KDD  
+Dan Hendrycks:  safety noise OOD GELU  
 Raghavendra Chalapathy: a survey  and a tutorial on 20 KDD
-Chong Zhou-RDA    
-Dan Li-MAD  
+Chong Zhou:  RDA    
+Dan Li:  MAD  
 
 # some deep method  used 
-Robust deep autoencoder KDD2017 : https://github.com/zc8340311/RobustAutoencoder
-classification-based unsupervised NIPS2018: https://github.com/izikgo/AnomalyDetectionTransformations
+Robust deep autoencoder KDD2017 : https://github.com/zc8340311/RobustAutoencoder  
+classification-based unsupervised NIPS2018: https://github.com/izikgo/AnomalyDetectionTransformations  
 DeepSVDD semi-supervised ICML2018:https://github.com/lukasruff/Deep-SVDD-PyTorch  
 MADGAN pure GAN: https://github.com/LiDan456/MAD-GANs   
 TadGan GAN+AE:https://github.com/arunppsg/TadGAN  
