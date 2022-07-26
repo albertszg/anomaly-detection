@@ -1,14 +1,20 @@
 # anomaly-detection
-a summary to anamaly detection
+a summary to anamaly detection  
+#Well-known researchers:  
+Guangsong Pang  
+Raghavendra Chalapathy  
+Chong Zhou-RDA
+# some deep method  
+Robust deep autoencoder KDD2017 : https://github.com/zc8340311/RobustAutoencoder
 
-#Well-known researchers:
 
-Guangsong Pang
+#Comprehensive code repository:  
+https://github.com/yzhao062/pyod  
+https://github.com/GuansongPang/SOTA-Deep-Anomaly-Detection  
+https://github.com/hoya012/awesome-anomaly-detection  
 
-#Comprehensive code repository:
-https://github.com/GuansongPang/SOTA-Deep-Anomaly-Detection
 
-#dataset:
+#dataset:  
 https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets
 
 
