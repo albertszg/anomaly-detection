@@ -1,6 +1,6 @@
 # anomaly-detection
 a summary to anamaly detection  
-#Comprehensive code repository:  
+# Comprehensive code repository:  
 - https://github.com/yzhao062/anomaly-detection-resources  
 - https://github.com/Minqi824/ADBench  
 - https://github.com/yzhao062/pyod  
@@ -8,7 +8,7 @@ a summary to anamaly detection
 - https://github.com/hoya012/awesome-anomaly-detection  
 - simple introduction to AE-based univariate time series: https://github.com/JulienAu/Anomaly_Detection_Tuto  
 
-#Well-known researchers:  
+# Well-known researchers:  
 - Yue Zhao: ADBench,pyod  
 - Lukas Ruff: DSVDD  
 - Guangsong Pang:  survey and tutorial on 21 KDD  
@@ -33,7 +33,7 @@ a summary to anamaly detection
 - some GANs:[WGAN-CP](https://github.com/martinarjovsky/WassersteinGAN) [spectralnormalization](https://github.com/christiancosgrove/pytorch-spectral-normalization-gan) [WGAN-GP](https://github.com/caogang/wgan-gp)
 - some weakly-supervised or semi-supervised: 
 
-#dataset:  
+# datasets:  
 - https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets
 
 
