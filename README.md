@@ -35,6 +35,7 @@ a summary to anamaly detection
 
 # datasets:  
 - https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets
-
+-[SMAP and MSL](https://github.com/khundman/telemanom)
+-[machine sever](https://github.com/smallcowbaby/OmniAnomaly)
 
   
