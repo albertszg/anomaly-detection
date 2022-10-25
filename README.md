@@ -10,6 +10,7 @@ a summary to anamaly detection
 
 # Well-known researchers:  
 - Yue Zhao: ADBench,pyod  
+- 张宇欣(中科院计算所):adaptive memory networks with self-supervised leanring. Unsupervised deep anomaly detection for multi-sensor time-series signals
 - Lukas Ruff: DSVDD  
 - Guangsong Pang:  survey and tutorial on 21 KDD  
 - Dan Hendrycks:  safety noise OOD GELU  
